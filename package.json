@@ -1,0 +1,23 @@
+{
+  "name": "alfred-git-commit-emoji",
+  "version": "1.0.0",
+  "description": "Alfred workflow to sort applicable emoji for git commit message quickly.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linx4200/alfred-git-commit-emoji.git"
+  },
+  "keywords": [
+    "alfred3-workflow",
+    "alfred",
+    "emoji"
+  ],
+  "author": "P1008@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/linx4200/alfred-git-commit-emoji/issues"
+  },
+  "homepage": "https://github.com/linx4200/alfred-git-commit-emoji#readme",
+  "dependencies": {
+    "alfy": "^0.7.0"
+  }
+}
